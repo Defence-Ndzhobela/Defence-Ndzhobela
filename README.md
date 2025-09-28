@@ -25,7 +25,7 @@ I am always learning new technologies and improving my skills in development and
 
 ## 📂 Projects
 
-[![Edu-Voice-Exam](https://img.shields.io/badge/Edu--Voice--Exam-Live-green?style=for-the-badge&logo=github)](https://defence-nzhobela-portifolio.vercel.app/)  
+[![Edu-Voice-Exam](https://img.shields.io/badge/Edu--Voice--Exam-Live-green?style=for-the-badge&logo=github)](https://github.com/Defence-Ndzhobela/Edu-VoiceExamSystem)  
 Multilingual web-based exam system with voice commands  
 
 [![Kota-Spaza](https://img.shields.io/badge/Kota--Spaza-Live-blue?style=for-the-badge&logo=github)](https://defence-nzhobela-portifolio.vercel.app/)  
