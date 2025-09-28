@@ -25,7 +25,6 @@ I am always learning new technologies and improving my skills in development and
 
 ## 📂 Projects
 
-## 📂 Projects
 
 [![Edu-Voice-Exam](https://img.shields.io/badge/Edu--Voice--Exam-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Defence-Ndzhobela/Edu-VoiceExamSystem)  
 Multilingual web-based exam system with voice commands and automated grading.
