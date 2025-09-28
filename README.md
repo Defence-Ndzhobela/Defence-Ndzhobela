@@ -28,26 +28,22 @@ I am always learning new technologies and improving my skills in development and
 ## 📂 Projects
 
 [![Edu-Voice-Exam](https://img.shields.io/badge/Edu--Voice--Exam-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Defence-Ndzhobela/Edu-VoiceExamSystem)  
-Multilingual web-based exam system with voice commands. Includes automated grading and voice support in Tsonga & Sepedi.
+Multilingual web-based exam system with voice commands and automated grading.
 
 [![Kota-Spaza](https://img.shields.io/badge/Kota--Spaza-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Defence-Ndzhobela/kotashop)  
-Web-based ordering & inventory management system for local food vendors. Tracks stock in real-time for smooth order fulfillment.
+Web-based ordering and inventory system for local food vendors.
 
 [![Alert Rider](https://img.shields.io/badge/Alert--Rider-Live-red?style=for-the-badge&logo=github)](https://alerttriderapp.onrender.com/)  
-**🚨 Alert Rider – Hazard Reporting App**  
-Report hazards, study road signs, and learn safe road practices. Integrates AI (OpenAI API) to rewrite hazard descriptions clearly and translates reports into South African languages.  
+Hazard reporting app with AI-powered description rewriting and translation.
 
 [![Cedric House Plan](https://img.shields.io/badge/Cedric--House--Plan-Live-orange?style=for-the-badge&logo=github)](https://www.cedric-houseplan.com/)  
-**Cedric House Planning & Construction**  
-Expert architectural design services. Transform your vision into detailed, professional house plans that bring your dream home to life.  
+Professional architectural design service to create dream home plans.
 
 [![Mzansi Plug](https://img.shields.io/badge/Mzansi--Plug-Live-purple?style=for-the-badge&logo=github)](https://mzansiplug.com)  
-**MzansiPlug – Career Empowerment Platform**  
-Discover jobs, internships, income streams, and learning opportunities. Features verified listings, career guides, skill-building tools, salary insights, and news to empower South Africans.  
+Platform providing jobs, internships, skill-building, and career resources.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=github)](https://defence-nzhobela-portifolio.vercel.app/)  
-My personal portfolio showcasing projects and skills.  
-
+Personal portfolio showcasing projects, skills, and experience.
 
 ---
 
